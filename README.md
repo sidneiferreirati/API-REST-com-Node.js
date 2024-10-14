@@ -1,0 +1,1 @@
+Nesta etapa, vamos focar em criar uma API REST com Node, abordando fundamentos, TypeScript, Express e Schema Validation. Vamos iniciar essa jornada de estudos!
